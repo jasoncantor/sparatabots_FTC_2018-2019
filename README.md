@@ -1,2 +1,3 @@
-# sparatabots_FTC_2018-2019
-Sparatabots code for FTC.
+# Sparatabots_FTC_2018-2019
+Sparatabots code for FTC 2018-2019.
+This contains all the code for it.
